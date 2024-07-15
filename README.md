@@ -6,4 +6,4 @@ The purpose of the project is to have fun. I had a blast time making it and expe
 
 I learnt and used a few tools to make this project. making cripts, adjusting settings, learning about the scene, game objects and more!!!.
 
-shoutout for Britishgaming for the tutorial.
+shout-out to Britishgaming for the tutorial.
