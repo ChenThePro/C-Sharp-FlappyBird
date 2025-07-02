@@ -50,7 +50,7 @@ This project was a hands-on experiment in understanding how 2D games are built â
 | Physics & Input  | Unity built-in      |
 | Audio            | Unity Audio Sources |
 | UI               | Unity UI System     |
-| Tutorial Source  | Britishgaming (YouTube)
+| Tutorial Source  | Game Maker's Toolkit (YouTube)
 
 ---
 
