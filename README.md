@@ -64,11 +64,13 @@ This project was a hands-on experiment in understanding how 2D games are built â
 
 ### Setup
 
+This repository is dedicated solely to the project's scripts. The full project can be found at the source repository here.
+[](https://github.com/Britishgaming/GMTK-Unity-Tutorial)
+
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/flappybird-unity
+git clone https://github.com/Britishgaming/GMTK-Unity-Tutorial
 ```
-
 1. Open Unity Hub.
 2. Click **Open Project** and select the cloned folder.
 3. Press **Play** in the Unity Editor to start the game.
