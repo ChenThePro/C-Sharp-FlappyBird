@@ -65,7 +65,7 @@ This project was a hands-on experiment in understanding how 2D games are built â
 ### Setup
 
 This repository is dedicated solely to the project's scripts. The full project can be found at the source repository here.
-[](https://github.com/Britishgaming/GMTK-Unity-Tutorial)
+[Game Maker's Toolkit repository](https://github.com/Britishgaming/GMTK-Unity-Tutorial)
 
 ```bash
 # Clone the repository
