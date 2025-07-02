@@ -85,15 +85,8 @@ git clone https://github.com/your-username/flappybird-unity
 
 ## 🖼️ Visuals
 
-You can place your screenshots or gameplay photos here by adding them to a folder named `Screenshots`:
-
-```markdown
-![Start Screen](Screenshots/start.png)
-![Gameplay](Screenshots/play.png)
-![Game Over](Screenshots/gameover.png)
-```
-
-> _To add images, place them inside `Screenshots/` and use the syntax above._
+![Gameplay](assets/screenshots/game.png)
+![Game Over](assets/screenshots/lose.png)
 
 ---
 
