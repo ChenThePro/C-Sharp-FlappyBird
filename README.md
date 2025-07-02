@@ -6,17 +6,17 @@
 
 ## 🧭 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Visuals](#visuals)
-- [Game Overview](#game-overview)
-- [Code Structure](#code-structure)
-- [Credits](#credits)
-- [Contributors](#contributors)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Technology Stack](#-technology-stack)
+- [Installation](#-installation)
+- [Usage](#%EF%B8%8F-usage)
+- [Visuals](#%EF%B8%8F-visuals)
+- [Game Overview](#-game-overview)
+- [Code Structure](#-code-structure)
+- [Credits](#-credits)
+- [Contributors](#-contributors)
+- [License](#-license)
 
 ---
 
