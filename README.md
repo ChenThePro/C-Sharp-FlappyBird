@@ -113,8 +113,7 @@ git clone https://github.com/your-username/flappybird-unity
 
 ## 🙌 Credits
 
-- **Tutorial Source**: [Britishgaming on YouTube](https://www.youtube.com/@Britishgaming)
-- **Sound Assets**: OpenGameArt / FreeSound.org
+- **Tutorial Source**: [Game Maker's Toolkit on YouTube](https://www.youtube.com/@GMTK)
 - **Inspiration**: The original *Flappy Bird* by .GEARS Studio
 
 ---
